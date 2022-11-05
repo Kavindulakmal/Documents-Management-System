@@ -1,0 +1,18 @@
+<---Admin login UN,PW -->
+
+email : kavindu@gmail.com
+
+PW : 123
+
+URL -> http://localhost/filemanagement/Private_Dashboard/index.html
+
+<--User login UN ,PW>
+
+
+http://localhost/filemanagement/login.html
+
+email : lakmal@gmail.com
+pw    : 123
+
+  As a emploee to add a file ->  http://localhost/filemanagement/private_user/add_file.php
+
